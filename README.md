@@ -1,6 +1,21 @@
 # Human-Sexuality-Math-Model
 A mathematical model and classification of human intimacy preferences.
 
+Talking to a friend tonight, she asked me how long it would be appropriate to have sex with someone else.
+I responded like this: "To have sex with someone is to take responsibility for it and face the consequences."
+The friend replied that she never thought love was very troublesome. It's not like hooking up, but I'm worried about illness and the other person's safety."
+I said, it's really not recommended, because it's bad for mental and physical health.
+I think a happy sexual relationship equals (beauty ➕ sex skills) ✖️ how much you like her. For example, if a person is beautiful 9 points, skill 8 points, if I like her a lot, then 8+9*9=153, but if I don't like her, either way is 0.
+
+Because some people even how beautiful you hate each other. This is normal.
+I found this to be a simplified model so I decided to come up with a relatively accurate model.
+My formula captures some of the elements of sexual attraction, but it may be oversimplified. Sexual pleasure is actually a combination of physical + psychological + emotional + cognitive results, not only depends on appearance, skill and liking, but also involves:
+1. Psychological factors (security, trust, emotional state)
+2. Physiological factors (health status, hormones, physical fitness)
+3. Emotional connection (deep communication, spiritual fit, relationship identification)
+4. Sociocultural influence (values, experience, upbringing)
+In other words, sex is not only physical stimulation + visual attraction, but also the embodiment of psychological identification + relational interaction. Therefore, I have written a simplified mathematical model to consider from psychology and neuroscience, and welcome everyone to optimize it together.
+
 今晚和朋友聊天，她问我多久才适合和别人发生关系。
 我是这样回答的：“和一个人发生性关系的前提是可以为这件事负责并且承担后果”
 朋友答道，她绝认为恋爱十分麻烦。不如约吧，但是担心疾病和对方不安全。”
